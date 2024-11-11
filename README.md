@@ -8,3 +8,17 @@ Chore : 패키지 매니저 수정, 그 외 기타 수정 ex) .gitignore
 Docs : 문서(주석) 수정  
 Refactor : 기능의 변화가 아닌 코드 리팩터링 ex) 변수 이름 변경  
 Test : 테스트 코드 추가/수정  
+
+
+### 2023.9.1.~2023.12.31
+
+## 연구 결과
+
+https://drive.google.com/
+
+## UCWIT 논문
+
+연구.pdf
+
+## UCWIT논문 포스터
+
