@@ -9,24 +9,24 @@ Docs : 문서(주석) 수정
 Refactor : 기능의 변화가 아닌 코드 리팩터링 ex) 변수 이름 변경  
 Test : 테스트 코드 추가/수정  
 
+<br>
+<br>
 
-### 2023.9.1.~2023.12.31
 
-## 연구 결과
+## 연구 결과 및 성과
+[이상행동 감지 모델 시스템 최종 연구본.pdf](https://github.com/user-attachments/files/17705500/default.pdf)
 
 <br>
 
-[이상행동 감지 모델 시스템 최종 연구본.pdf](https://github.com/user-attachments/files/17705500/default.pdf)
-
-
-## UCWIT 논문
+## UCWIT 논문 및 수상
 
 <img width="280" alt="image" src="https://github.com/user-attachments/assets/b5ad71da-9d57-4f5e-9b7c-45636d4f7fb8">
+<img width="440" alt="image" src="https://github.com/user-attachments/assets/f1ccdc8e-78ef-49cf-aa62-d198d8a14d29">
 
+<br>
 
 ## UCWIT논문 포스터
 
-<br>
 <img width="280" alt="image" src="https://github.com/user-attachments/assets/e18e27f4-f448-47b1-8f49-be506076c06e">
 
 <br>
