@@ -14,11 +14,21 @@ Test : 테스트 코드 추가/수정
 
 ## 연구 결과
 
-https://drive.google.com/
+<br>
+
+[이상행동 감지 모델 시스템 최종 연구본.pdf](https://github.com/user-attachments/files/17705500/default.pdf)
+
 
 ## UCWIT 논문
 
-연구.pdf
+<img width="280" alt="image" src="https://github.com/user-attachments/assets/b5ad71da-9d57-4f5e-9b7c-45636d4f7fb8">
+
 
 ## UCWIT논문 포스터
 
+<br>
+<img width="280" alt="image" src="https://github.com/user-attachments/assets/e18e27f4-f448-47b1-8f49-be506076c06e">
+
+<br>
+
+[이상행동 감지 모델 시스템 논문 포스터.pdf](https://github.com/user-attachments/files/17705495/default.pdf)
